@@ -1,0 +1,58 @@
+[
+    {
+        "first_name": "arya",
+        "last_name": "darvishi kohan",
+        "birthday": "2004-11-02T00:00:00",
+        "code_melli": "0250280213",
+        "student_code": "40247",
+        "courses": [
+            "math",
+            "economy",
+            "physics"
+        ],
+        "grade": [
+            14.0,
+            18.0,
+            12.5
+        ]
+    },
+    {
+        "first_name": "ali",
+        "last_name": "rezaei",
+        "birthday": "2004-05-02T00:00:00",
+        "code_melli": "2583691470",
+        "student_code": "15984",
+        "courses": [
+            "art"
+        ],
+        "grade": [
+            19.0
+        ]
+    },
+    {
+        "first_name": "parsa",
+        "last_name": "yasini",
+        "birthday": "2010-07-28T00:00:00",
+        "code_melli": "1472583570",
+        "student_code": "45687",
+        "courses": [
+            "chemistry"
+        ],
+        "grade": [
+            17.0
+        ]
+    },
+    {
+        "first_name": "parisa",
+        "last_name": "esfandyar",
+        "birthday": "1396/05/07",
+        "code_melli": "0258741963",
+        "student_code": "13231",
+        "courses": [
+            "graphic"
+        ],
+        "grade": [
+            15.0
+        ]
+    }
+]

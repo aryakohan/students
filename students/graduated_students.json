@@ -1,0 +1,15 @@
+[
+    {
+        "first_name": "pooya",
+        "last_name": "kohan",
+        "birthday": "1995-03-12T00:00:00",
+        "code_melli": "1472583690",
+        "student_code": "15962",
+        "courses": [
+            "seo"
+        ],
+        "grade": [
+            20.0
+        ]
+    }
+]
